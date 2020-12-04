@@ -3,3 +3,5 @@ halooo ini cuma test
 hello world haloo
 
 buat web kawan kita menggunakan wordpress
+
+simple tinggal beli domain dan pilih theme
