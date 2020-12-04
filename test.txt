@@ -2,6 +2,7 @@ halooo ini cuma test
 
 hello world haloo
 
-latihan web development dulu
+buat web kawan kita menggunakan wordpress
 
 abis itu baru bikin web kawan kita
+
