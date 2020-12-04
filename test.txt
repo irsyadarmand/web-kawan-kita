@@ -3,3 +3,5 @@ halooo ini cuma test
 hello world haloo
 
 latihan web development dulu
+
+abis itu baru bikin web kawan kita
