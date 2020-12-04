@@ -4,4 +4,5 @@ hello world haloo
 
 buat web kawan kita menggunakan wordpress
 
-simple tinggal beli domain dan pilih theme
+abis itu baru bikin web kawan kita
+
