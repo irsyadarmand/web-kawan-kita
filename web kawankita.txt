@@ -1,3 +1,4 @@
 Web Kawan Kita
 - Rencana pembuatan kawan kita dengan target Bulan July
 - Latihan Course online di Udemy
+- Pembuatan web menggunakan Wordpress
