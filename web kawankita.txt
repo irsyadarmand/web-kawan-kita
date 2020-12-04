@@ -3,3 +3,4 @@ Web Kawan Kita
 - Latihan Course online di Udemy
 - Pembuatan web menggunakan Wordpress
 - Membuat Merch
+- Menambah struktur data
